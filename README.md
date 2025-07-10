@@ -1,4 +1,3 @@
-```markdown
 # AI Future Directions – PLP Academy Assignment 
 
 **Theme**: *Pioneering Tomorrow’s AI Innovations*  
