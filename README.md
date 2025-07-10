@@ -60,7 +60,7 @@ A brain-connected, emotionally-aware AI companion that helps users with mental h
 
 ---
 
-## ⚛Bonus: Quantum AI Simulation
+## Bonus: Quantum AI Simulation
 
 - Built 2-qubit entangled circuit using Qiskit
 - Demonstrated concept of superposition in molecular state simulation
