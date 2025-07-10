@@ -1,7 +1,7 @@
 # AI Future Directions – PLP Academy Assignment 
 
 **Theme**: *Pioneering Tomorrow’s AI Innovations*  
-**Author**: [Timothy Ochieng]  
+**Author**: Timothy Ochieng  
 **Tools Used**: TensorFlow, TensorFlow Lite, IBM Quantum Experience, Python, Qiskit
 
 ---
